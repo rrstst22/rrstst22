@@ -30,4 +30,4 @@ https://github.com/rrstst22/riglish
 ## :hourglass_flowing_sand:Timer (Todo & 祝日 カウントダウン)
 https://github.com/rrstst22/timer)
 
-Todo期限や祝日までの日付カウントダウンが可能です。
+Todo期限や祝日までの日付カウントダウンを表示します。
