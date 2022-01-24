@@ -6,8 +6,8 @@
 
 <br>
 
-## :memo:riupad 個人ブログ
-https://github.com/rrstst22/riupad
+## :memo:個人ブログ
+非公開
 
 WordPressで作成した個人ブログです。VPSを使って管理しております。
 
